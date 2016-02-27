@@ -6,7 +6,7 @@ I can use background images and position elements to create a layout.
 
 
 Instagram's designer sent over the following screen shot of the design. Your job is the create the markup and the styling for the landing page. All the resources that you need are in a folder called 'images'. 
-
+![screenshot]('/images/screenshot.png')
 
 For now, don't worry about about making the links work. You can just put in a place holder link, ex `<a href="#">A link to no where</a>`
 
